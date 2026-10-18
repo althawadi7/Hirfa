@@ -1,20 +1,3 @@
-# TeamHirfa — GitHub backlink (copy/paste)
-
-## 1) Create repo
-- New public repo name: `teamhirfa` (or `hirfa`)
-- Owner: your GitHub user (e.g. same as Snipechain: `althawadi7`)
-- Add a **Description** (GitHub About box):
-
-```
-Hirfa (حِرفة) — Bahrain artisan marketplace: handmade shops, craft courses & freelance services. https://teamhirfa.com
-```
-
-- Website URL in About: `https://teamhirfa.com`
-- Topics: `bahrain`, `handmade`, `crafts`, `marketplace`, `arabic`, `ecommerce`, `hirfa`
-
-## 2) Paste this as `README.md`
-
-```markdown
 # Hirfa — حِرفة
 
 **Bahrain’s artisan marketplace** for handmade shops, craft courses, and custom freelance services.
@@ -90,9 +73,3 @@ Based in **Bahrain** · Serving the **GCC**
 
 This repository is a public profile / project overview for **TeamHirfa / Hirfa**.  
 For shop onboarding, partnerships, or support, contact [info@teamhirfa.com](mailto:info@teamhirfa.com) or WhatsApp [+973 3822 9980](https://wa.me/97338229980).
-```
-
-## 3) After publish
-1. Open the repo URL (example: `https://github.com/YOURUSER/teamhirfa`)
-2. Hub → project **TeamHirfa** → `#/backlinks` → **Add published URL** → paste repo URL → **Show on site** ✓
-3. Optional: put the same `https://teamhirfa.com` link in the GitHub profile README if you use one
